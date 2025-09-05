@@ -2172,7 +2172,7 @@ paths:
           schema:
             type: string
             enum: [ delete, update ]
-            example: movies
+            example: update
         - description: name
           in: query
           name: page
